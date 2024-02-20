@@ -11,6 +11,7 @@ query=input(print("Do you have or have ever had a pet? Enter Y for Yes or N for 
 if query.upper()=="Y":
     pet_name=input(print("Enter the name of the pet"))
     print("And the suggested Band Name is: "+ city_name + " " + pet_name)
+
 else:
     print("Better Luck")
 
