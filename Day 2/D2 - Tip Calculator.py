@@ -25,7 +25,7 @@ if bill_response.upper()== "Y":
             tip_percent = tip_store_string[0] / 100
             tip_amount = tip_percent * bill_amount
             new_bill_amount = tip_amount + bill_amount
-            print("Bill per person is: ", new_bill_amount)
+            print(f"Your bill Mr./Ms {table_host} is: ", new_bill_amount)
         if tip_request.upper()== "Y":
             tip_store=input(print("Do you want to tip 10%, 15% or 20% \n"))
             tip_store_string=[float(tip_store)]
