@@ -10,13 +10,12 @@ tip_percent=15
 
 
 bill_response=input(print(f'Are you ready to settle your bill {table_host} \n:'))
-
 if bill_response.upper()== "Y":
-    print("Your Bill is: ", bill_amount)
-    bill_split_request=input(print(f"Would you like to split the bill Mr./Ms {table_host}? \n"))
+    print(f"Thank you Mr./Ms {table_host} \n \t")
+    bill_split_request=input(print(f"And Would you like to split the bill Mr./Ms {table_host}? \n \t"))
     if bill_split_request.upper()== "Y":
-        bill_split_store=input(print("How many people would you like to split the bill between? \n"))
-        tip_request=input(print("And would you like to add a tip to the bill? \n"))
+        bill_split_store=int(input(print("How many people would you like to split the bill between? \n \t")))
+        tip_request=input(print("And would you like to add a tip to the bill? \n \t"))
     else:
         tip_request = input(print("And would you like to add a tip to the bill? \n"))
         if tip_request.upper() == "Y":
@@ -26,14 +25,9 @@ if bill_response.upper()== "Y":
             tip_amount = tip_percent * bill_amount
             new_bill_amount = tip_amount + bill_amount
             print(f"Your bill Mr./Ms {table_host} is: ", new_bill_amount)
-        if tip_request.upper()== "Y":
-            tip_store=input(print("Do you want to tip 10%, 15% or 20% \n"))
-            tip_store_string=[float(tip_store)]
-            tip_percent=tip_store_string[0]/100
-            tip_amount=tip_percent * bill_amount
-            new_bill_amount=tip_amount+bill_amount
-            bill_per_person=(new_bill_amount/int(bill_split_store))
-            print("Bill per person is: ",bill_per_person)
+        else:
+            print(f"Your total bill Mr./Ms {table_host} is ", bill_amount)
+
 
 
 else:
