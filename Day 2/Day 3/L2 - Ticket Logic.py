@@ -15,10 +15,10 @@ if height > 120:
         print(f'\t\tTicket Category: "Adult" cost for your age category{u_name} is', ticket_price)
     pic_request=str(input(print('Would you like a photo of your ride experience? Enter "Y" for "Yes" and "N" for "No" ')))
     if pic_request.upper()=="Y":
-        new_ticket_price=ticket_price + 5
-        print(f'You new ticket price {u_name} is $', new_ticket_price)
-    else:
-        print("Your ticket price remain unchanged ", ticket_price)
+        ticket_price+= 5
+    print(f'You new ticket price {u_name} is $', ticket_price)
+    #elif:
+          #  print("Your ticket price remain unchanged ", ticket_price, "Please proceed to the ride")
 
 else:
     print("Sorry, you cannot go onto the ride")
