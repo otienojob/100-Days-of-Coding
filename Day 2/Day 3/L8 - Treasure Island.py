@@ -19,13 +19,28 @@ if turn_1.lower() == 'left':
     print("CONGRADULATIONS! On to the next level")
     print("You have arrived at a the murky River Awach!")
     swim_1=input(print("What do you want to do? Do you want to 'SWIM' or 'WAIT' "))
+
     if swim_1.lower() == 'wait':
         print("CONGRADULATIONS! ")
         print('You have UNLOCKED LEVEL 3!')
-        print('You are face-to-face with THREE DOORS! Which door color do you want to turn into? ')
+        door_1=input(print('You are face-to-face with THREE DOORS! Which door color do you want to turn into? "Yellow", or "Blue", or "Red"? '))
+        if door_1.lower()== 'yellow':
+            print("CONGRADULATIONS! YOU ARE A WINNER!")
+        elif door_1.lower() == 'blue':
+            print("YOU HAVE BEEN DEVOURED BY BEASTS!")
+            print("GAME OVER!")
+        elif door_1.lower()== 'red':
+            print("DEJAVU! YOU HAVE BEEN BURNED BY DRAGON FIRE")
+            print("GAME OVER!")
+        else:
+            print("GAME OVER")
+
+
+
     else:
         print("Uh Oh! You are SWIMMING with the SHARKS!.")
         print("Game Over")
+
 else:
     print("Uh Oh! You have fallen into a bottomless PIT.")
     print("GAME OVER!")    
