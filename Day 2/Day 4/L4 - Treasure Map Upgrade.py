@@ -11,7 +11,13 @@ hide_x=input()
 
 if hide_x=="A1":
     hide_x.lower()=="a1"
-    map[0][0]="Y"
+    map[0][0]="X"
+elif hide_x=="A2":
+    hide_x.lower()=="a1"
+    map[0][1]="X"
+if hide_x=="A3":
+    hide_x.lower()=="a1"
+    map[0][2]="X"
 
 print(map)
 
