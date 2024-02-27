@@ -1,11 +1,11 @@
 #Love Calculator
 
+
 x=2
 print(x**8 * '/')
 print("Welcome to Your Love Compatibility App")
 print(x**8 * '/')
 
-names=[]
 names.insert(0,(input(print("Enter Your Partner's First Name"))))
 names.insert(1,(input(print("Enter Your Second Name"))))
 print(names)
@@ -44,6 +44,7 @@ elif (score4>=40) and (score4<=50):
 else:
     print("Better Look for ALTERNATIVES")
 
+p
 print(x**8 * '/')
 
 #count occurances of letters in 'true' and 'love'
