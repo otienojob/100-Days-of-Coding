@@ -10,14 +10,23 @@ map=[line1,line2,line3]
 hide_x=input()
 
 if hide_x=="A1":
-    hide_x.lower()=="a1"
     map[0][0]="X"
-elif hide_x=="A2":
-    hide_x.lower()=="a1"
+elif hide_x=="B1":
     map[0][1]="X"
-if hide_x=="A3":
-    hide_x.lower()=="a1"
+elif hide_x=="C1":
     map[0][2]="X"
-
-print(map)
+elif hide_x=="A2":
+    map[1][0]="X"
+elif hide_x=="B2":
+    map[1][1]="X"
+elif hide_x=="C2":
+    map[1][2]="X"
+elif hide_x=="A3":
+    map[2][0]="X"
+elif hide_x=="B3":
+    map[2][1]="X"
+elif hide_x == "C3":
+    map[2][2]="X"
+    
+print(f"{line1}\n{line2}\n{line3}")
 
