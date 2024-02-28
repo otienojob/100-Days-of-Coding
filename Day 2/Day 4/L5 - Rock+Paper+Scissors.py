@@ -43,7 +43,24 @@ while gamer_input<0 or gamer_input>2:
             print("Invalid entry. Kindly enter 0, 1 or 2")
     except ValueError:
         print("Invalid entry. Try again")
+#end of exception block
 
 print(f"{player_name} , you have selected {game_images[gamer_input]} , now let's see the Computer's choice")
+
+#generate computer selection
+
 computer_input=random.randrange(0,2)
-print(f"Computer's choice {game_images[computer_input]}")
+print(f"Computer's choice is  {game_images[computer_input]}")
+
+#getting to know the winner
+
+if gamer_input==0 and computer_input==2:
+    print(f'{player_name}, You Win!')
+elif gamer_input==2 and computer_input==0:
+    print(f'{player_name}, You Lose!')
+elif gamer_input<computer_input:
+    print(f'{player_name}, You Lose!')
+elif gamer_input<computer_input:
+    print(f'{player_name}, You Win!')
+elif gamer_input==computer_input:
+    print(f'{player_name}, You Draw!')
