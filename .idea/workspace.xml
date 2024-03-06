@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77109f80-3a29-4e0e-b50b-11257def6f9a" name="Changes" comment="Added File L6">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/L6 Fiz Buzz Job Interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/L6 Fiz Buzz Job Interview.py" afterDir="false" />
-    </list>
+    <list default="true" id="77109f80-3a29-4e0e-b50b-11257def6f9a" name="Changes" comment="Fixed Bug on if logic" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709704088161</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Code Close">
+      <option name="closed" value="true" />
+      <created>1709711934461</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709711934461</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed Bug on if logic">
+      <option name="closed" value="true" />
+      <created>1709712164349</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709712164349</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +195,8 @@
     <MESSAGE value="Added name.strip to code" />
     <MESSAGE value="Added Directory" />
     <MESSAGE value="Added File L6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added File L6" />
+    <MESSAGE value="Code Close" />
+    <MESSAGE value="Fixed Bug on if logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Bug on if logic" />
   </component>
 </project>
