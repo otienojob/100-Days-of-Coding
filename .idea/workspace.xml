@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Day5_2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,16 +47,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.L1 - List_Random.executor": "Run",
-    "Python.L6 Fiz Buzz Job Interview.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Day5__2",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/100 Days of Coding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.L1 - List_Random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L6 Fiz Buzz Job Interview.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Day5__2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/100 Days of Coding&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.L6 Fiz Buzz Job Interview">
     <configuration name="L1 - List_Random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100 Days of Coding" />
@@ -179,7 +179,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="Day-5-Python-Coding-Challenge" />
                       </list>
                     </value>
                   </entry>
