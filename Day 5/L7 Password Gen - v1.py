@@ -40,7 +40,7 @@ random.shuffle(fin_passwrd)
 print((2**5)*'...' )
 
 for x in fin_passwrd:
-    act_passwrd+=x
+    act_passwrd=act_passwrd+x
     print(x)
 #    act_passwrd+=x
 
