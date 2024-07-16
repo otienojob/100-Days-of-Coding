@@ -1,3 +1,4 @@
+#image definition
 rock = '''
     _______
 ---'   ____)
