@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77109f80-3a29-4e0e-b50b-11257def6f9a" name="Changes" comment="Fixed Bug on if logic" />
+    <list default="true" id="77109f80-3a29-4e0e-b50b-11257def6f9a" name="Changes" comment="Fixed Bug on if logic">
+      <change beforePath="$PROJECT_DIR$/.idea/100 Days of Coding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100 Days of Coding.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Day 4/L2 - Dirty Dozen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Day 4/L2 - Dirty Dozen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Day 4/L5 - Rock+Paper+Scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Day 4/L5 - Rock+Paper+Scissors.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,14 +56,17 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.L1 - List_Random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L2 - Dirty Dozen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L4 - Treasure Map Upgrade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L5 - Rock+Paper+Scissors.executor&quot;: &quot;Run&quot;,
     &quot;Python.L6 Fiz Buzz Job Interview.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Day5__2&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Develop&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/100 Days of Coding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.L6 Fiz Buzz Job Interview">
+  <component name="RunManager" selected="Python.L5 - Rock+Paper+Scissors">
     <configuration name="L1 - List_Random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100 Days of Coding" />
       <option name="ENV_FILES" value="" />
@@ -72,6 +81,72 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 2/Day 4/L1 - List_Random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="L2 - Dirty Dozen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100 Days of Coding" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 2/Day 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 2/Day 4/L2 - Dirty Dozen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="L4 - Treasure Map Upgrade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100 Days of Coding" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 2/Day 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 2/Day 4/L4 - Treasure Map Upgrade.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="L5 - Rock+Paper+Scissors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100 Days of Coding" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 2/Day 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 2/Day 4/L5 - Rock+Paper+Scissors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,15 +179,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.L6 Fiz Buzz Job Interview" />
+        <item itemvalue="Python.L5 - Rock+Paper+Scissors" />
+        <item itemvalue="Python.L2 - Dirty Dozen" />
+        <item itemvalue="Python.L4 - Treasure Map Upgrade" />
         <item itemvalue="Python.L1 - List_Random" />
+        <item itemvalue="Python.L6 Fiz Buzz Job Interview" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
       </set>
     </attachedChunks>
   </component>

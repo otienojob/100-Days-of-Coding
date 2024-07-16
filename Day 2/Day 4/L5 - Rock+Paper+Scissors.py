@@ -40,7 +40,7 @@ while gamer_input<0 or gamer_input>2:
     try:
         gamer_input=int(input(print("Game On! Pick 0 for Rock, 1 for Paper and 2 for Scissors")))
         if gamer_input <0 or gamer_input>2:
-            print("Invalid entry. Kindly enter 0, 1 or 2")
+            print("Invalid entry. Kindl y enter 0, 1 or 2")
     except ValueError:
         print("Invalid entry. Try again")
 #end of exception block
