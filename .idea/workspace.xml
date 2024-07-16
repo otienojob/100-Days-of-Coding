@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77109f80-3a29-4e0e-b50b-11257def6f9a" name="Changes" comment="Fixed Bug on if logic">
-      <change afterPath="$PROJECT_DIR$/Day 5/Average Height.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Average Height.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Average Height.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.L1 - List_Random.executor&quot;: &quot;Run&quot;,
-    &quot;Python.L2 - Dirty Dozen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.L4 - Treasure Map Upgrade.executor&quot;: &quot;Run&quot;,
-    &quot;Python.L5 - Rock+Paper+Scissors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.L6 Fiz Buzz Job Interview.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Develop&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/100 Days of Coding&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Average Height.executor": "Run",
+    "Python.L1 - List_Random.executor": "Run",
+    "Python.L2 - Dirty Dozen.executor": "Run",
+    "Python.L4 - Treasure Map Upgrade.executor": "Run",
+    "Python.L5 - Rock+Paper+Scissors.executor": "Run",
+    "Python.L6 Fiz Buzz Job Interview.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Develop",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/100 Days of Coding"
   }
-}</component>
-  <component name="RunManager" selected="Python.L6 Fiz Buzz Job Interview">
-    <configuration name="L1 - List_Random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.Average Height">
+    <configuration name="Average Height" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100 Days of Coding" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 2/Day 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 2/Day 4/L1 - List_Random.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/Average Height.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Average Height" />
         <item itemvalue="Python.L6 Fiz Buzz Job Interview" />
         <item itemvalue="Python.L5 - Rock+Paper+Scissors" />
         <item itemvalue="Python.L2 - Dirty Dozen" />
         <item itemvalue="Python.L4 - Treasure Map Upgrade" />
-        <item itemvalue="Python.L1 - List_Random" />
       </list>
     </recent_temporary>
   </component>
