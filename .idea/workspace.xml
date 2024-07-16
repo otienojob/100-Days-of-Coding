@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77109f80-3a29-4e0e-b50b-11257def6f9a" name="Changes" comment="Fixed Bug on if logic">
-      <change beforePath="$PROJECT_DIR$/Day 5/Average Height.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Average Height.py" afterDir="false" />
-    </list>
+    <list default="true" id="77109f80-3a29-4e0e-b50b-11257def6f9a" name="Changes" comment="Average" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -256,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721122588631</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Average">
+      <option name="closed" value="true" />
+      <created>1721131798411</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721131798411</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +294,7 @@
     <MESSAGE value="Added File L6" />
     <MESSAGE value="Code Close" />
     <MESSAGE value="Fixed Bug on if logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Bug on if logic" />
+    <MESSAGE value="Average" />
+    <option name="LAST_COMMIT_MESSAGE" value="Average" />
   </component>
 </project>
