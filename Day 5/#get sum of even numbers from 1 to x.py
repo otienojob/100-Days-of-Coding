@@ -6,7 +6,7 @@ print((2**5)* '--')
 
 #error exception
 user_input=0
-while user_input<=0 and user_input>1000:
+while user_input<=0 or user_input>1000:
     try:
         user_input=int(input("Enter a value 'x'"))
         if user_input<=0 or user_input>1000:
@@ -14,3 +14,6 @@ while user_input<=0 and user_input>1000:
     except ValueError:
         print("That's an invalid entry. Try again")
 #end of exception block
+
+for n in range(1,user_input+1):
+    print(n)
