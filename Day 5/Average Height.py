@@ -17,6 +17,7 @@ print("Please convert values to integer!")
 new_class_height=[]
 for x in class_height:
     new_class_height.append(int(x))
+    # new_class_height=list(map(int, class_height))
 print("")
 print("New Class List :", new_class_height)
 print((2**5)* '--')

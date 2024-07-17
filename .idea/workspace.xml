@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77109f80-3a29-4e0e-b50b-11257def6f9a" name="Changes" comment="Average">
-      <change beforePath="$PROJECT_DIR$/Day 5/Average Height.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Average Height.py" afterDir="false" />
-    </list>
+    <list default="true" id="77109f80-3a29-4e0e-b50b-11257def6f9a" name="Changes" comment="Update workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="Day5_2" />
@@ -264,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721131798411</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update workspace.xml">
+      <option name="closed" value="true" />
+      <created>1721192301623</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721192301623</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +304,8 @@
     <MESSAGE value="Code Close" />
     <MESSAGE value="Fixed Bug on if logic" />
     <MESSAGE value="Average" />
-    <option name="LAST_COMMIT_MESSAGE" value="Average" />
+    <MESSAGE value="Average&#10;Added Round Function" />
+    <MESSAGE value="Update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml" />
   </component>
 </project>
