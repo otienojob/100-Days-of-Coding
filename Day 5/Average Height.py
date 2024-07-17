@@ -29,6 +29,7 @@ for n in new_class_height:
     n_students+=1
 
 av_height=sum_height/n_students
+round_av=round(av_height,2)
 print(f' The Total Height Is: {sum_height}')
-print(f' The Number of Students Is: ', n_students)
-print(f' The Average Height Is: ', av_height)
+print(f' The Number of Students Is: {n_students}')
+print(f' The Average Height Is: {round_av}')
