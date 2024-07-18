@@ -17,5 +17,7 @@ while user_input<=0 or user_input>1000:
 
 sum_even=0
 for n in range(2,user_input+1,2):
+    sum_even+=n
     print(n,end=" ")
-    #print(f'{n},', end=" ")
+
+print(f'{sum_even}')
