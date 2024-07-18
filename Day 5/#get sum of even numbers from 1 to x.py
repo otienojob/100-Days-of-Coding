@@ -15,5 +15,7 @@ while user_input<=0 or user_input>1000:
         print("That's an invalid entry. Try again")
 #end of exception block
 
-for n in range(1,user_input+1):
-    print(n)
+sum_even=0
+for n in range(2,user_input+1,2):
+    print(n,end=" ")
+    #print(f'{n},', end=" ")
