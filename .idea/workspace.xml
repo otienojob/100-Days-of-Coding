@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77109f80-3a29-4e0e-b50b-11257def6f9a" name="Changes" comment="Update workspace.xml">
-      <change beforePath="$PROJECT_DIR$/Day 5/#get sum of even numbers from 1 to x.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/#get sum of even numbers from 1 to x.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +50,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.#get sum of even numbers from 1 to x.executor": "Run",
-    "Python.Average Height.executor": "Run",
-    "Python.L1 - List_Random.executor": "Run",
-    "Python.L2 - Dirty Dozen.executor": "Run",
-    "Python.L4 - Treasure Map Upgrade.executor": "Run",
-    "Python.L5 - Rock+Paper+Scissors.executor": "Run",
-    "Python.L6 Fiz Buzz Job Interview.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Develop",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/100 Days of Coding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.#get sum of even numbers from 1 to x.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Average Height.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L1 - List_Random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L2 - Dirty Dozen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L4 - Treasure Map Upgrade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L5 - Rock+Paper+Scissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L6 Fiz Buzz Job Interview.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/100 Days of Coding&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.#get sum of even numbers from 1 to x">
     <configuration name="Average Height" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100 Days of Coding" />
